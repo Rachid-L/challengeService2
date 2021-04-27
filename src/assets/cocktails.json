@@ -1,0 +1,19 @@
+{
+    "cocktails": [
+        {
+            "name": "Vovo",
+            "price": 10,
+            "img": "assets/vovo.jpg"
+        },
+        {
+            "name": "Jack Coca",
+            "price": 15,
+            "img": "assets/coca.jpg"
+        },
+        {
+            "name": "Jack Miel",
+            "price": 10,
+            "img": "assets/miel.jpg"
+        }
+    ]
+}
